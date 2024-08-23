@@ -1,0 +1,3569 @@
+{
+  "fantasy_content": {
+    "xml:lang": "en-US",
+    "yahoo:uri": "/fantasy/v2/team/423.l.189611.t.1/matchups",
+    "team": [
+      [
+        {
+          "team_key": "423.l.189611.t.1"
+        },
+        {
+          "team_id": "1"
+        },
+        {
+          "name": "Hurts Barkley and Hill is Hot"
+        },
+        {
+          "is_owned_by_current_login": 1
+        },
+        {
+          "url": "https://football.fantasysports.yahoo.com/2023/f1/189611/1"
+        },
+        {
+          "team_logos": [
+            {
+              "team_logo": {
+                "size": "large",
+                "url": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/1c193bbb0a52b6009cff730cf4ccf3e07b2f58e716d11298a06f34ba8187f816.jpg"
+              }
+            }
+          ]
+        },
+        [],
+        {
+          "waiver_priority": 8
+        },
+        [],
+        {
+          "number_of_moves": 15
+        },
+        {
+          "number_of_trades": 0
+        },
+        {
+          "roster_adds": {
+            "coverage_type": "week",
+            "coverage_value": 18,
+            "value": "0"
+          }
+        },
+        {
+          "clinched_playoffs": 1
+        },
+        {
+          "league_scoring_type": "head"
+        },
+        [],
+        [],
+        {
+          "has_draft_grade": 1,
+          "draft_grade": "B+",
+          "draft_recap_url": "https://football.fantasysports.yahoo.com/2023/f1/189611/1/draftrecap"
+        },
+        [],
+        [],
+        [],
+        {
+          "managers": [
+            {
+              "manager": {
+                "manager_id": "1",
+                "nickname": "Harper",
+                "guid": "QQIQZ2XHT2FYEW7L4TMCKO4N6A",
+                "is_commissioner": "1",
+                "is_current_login": "1",
+                "image_url": "https://s.yimg.com/ag/images/2a03c2b1-5620-448e-bbeb-ddc2cf2c0c43_64sq.jpg",
+                "felo_score": "663",
+                "felo_tier": "silver"
+              }
+            }
+          ]
+        }
+      ],
+      {
+        "matchups": {
+          "0": {
+            "matchup": {
+              "0": {
+                "teams": {
+                  "0": {
+                    "team": [
+                      [
+                        {
+                          "team_key": "423.l.189611.t.1"
+                        },
+                        {
+                          "team_id": "1"
+                        },
+                        {
+                          "name": "Hurts Barkley and Hill is Hot"
+                        },
+                        {
+                          "is_owned_by_current_login": 1
+                        },
+                        {
+                          "url": "https://football.fantasysports.yahoo.com/2023/f1/189611/1"
+                        },
+                        {
+                          "team_logos": [
+                            {
+                              "team_logo": {
+                                "size": "large",
+                                "url": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/1c193bbb0a52b6009cff730cf4ccf3e07b2f58e716d11298a06f34ba8187f816.jpg"
+                              }
+                            }
+                          ]
+                        },
+                        [],
+                        {
+                          "waiver_priority": 8
+                        },
+                        [],
+                        {
+                          "number_of_moves": 15
+                        },
+                        {
+                          "number_of_trades": 0
+                        },
+                        {
+                          "roster_adds": {
+                            "coverage_type": "week",
+                            "coverage_value": 18,
+                            "value": "0"
+                          }
+                        },
+                        {
+                          "clinched_playoffs": 1
+                        },
+                        {
+                          "league_scoring_type": "head"
+                        },
+                        [],
+                        [],
+                        {
+                          "has_draft_grade": 1,
+                          "draft_grade": "B+",
+                          "draft_recap_url": "https://football.fantasysports.yahoo.com/2023/f1/189611/1/draftrecap"
+                        },
+                        [],
+                        [],
+                        [],
+                        {
+                          "managers": [
+                            {
+                              "manager": {
+                                "manager_id": "1",
+                                "nickname": "Harper",
+                                "guid": "QQIQZ2XHT2FYEW7L4TMCKO4N6A",
+                                "is_commissioner": "1",
+                                "is_current_login": "1",
+                                "image_url": "https://s.yimg.com/ag/images/2a03c2b1-5620-448e-bbeb-ddc2cf2c0c43_64sq.jpg",
+                                "felo_score": "663",
+                                "felo_tier": "silver"
+                              }
+                            }
+                          ]
+                        }
+                      ],
+                      {
+                        "win_probability": 1,
+                        "team_points": {
+                          "coverage_type": "week",
+                          "week": "1",
+                          "total": "119.10"
+                        },
+                        "team_projected_points": {
+                          "coverage_type": "week",
+                          "week": "1",
+                          "total": "117.77"
+                        }
+                      }
+                    ]
+                  },
+                  "1": {
+                    "team": [
+                      [
+                        {
+                          "team_key": "423.l.189611.t.4"
+                        },
+                        {
+                          "team_id": "4"
+                        },
+                        {
+                          "name": "Breece’s Pieces"
+                        },
+                        [],
+                        {
+                          "url": "https://football.fantasysports.yahoo.com/2023/f1/189611/4"
+                        },
+                        {
+                          "team_logos": [
+                            {
+                              "team_logo": {
+                                "size": "large",
+                                "url": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/56477432081_bebbe2.png"
+                              }
+                            }
+                          ]
+                        },
+                        [],
+                        {
+                          "waiver_priority": 6
+                        },
+                        [],
+                        {
+                          "number_of_moves": 13
+                        },
+                        {
+                          "number_of_trades": 0
+                        },
+                        {
+                          "roster_adds": {
+                            "coverage_type": "week",
+                            "coverage_value": 18,
+                            "value": "0"
+                          }
+                        },
+                        {
+                          "clinched_playoffs": 1
+                        },
+                        {
+                          "league_scoring_type": "head"
+                        },
+                        [],
+                        [],
+                        {
+                          "has_draft_grade": 1,
+                          "draft_grade": "A+",
+                          "draft_recap_url": "https://football.fantasysports.yahoo.com/2023/f1/189611/4/draftrecap"
+                        },
+                        [],
+                        [],
+                        [],
+                        {
+                          "managers": [
+                            {
+                              "manager": {
+                                "manager_id": "4",
+                                "nickname": "cass",
+                                "guid": "N3M4WFRKGYVYHLCJPSICQUG4GE",
+                                "image_url": "https://s.yimg.com/ag/images/default_user_profile_pic_64sq.jpg",
+                                "felo_score": "793",
+                                "felo_tier": "gold"
+                              }
+                            }
+                          ]
+                        }
+                      ],
+                      {
+                        "win_probability": 0,
+                        "team_points": {
+                          "coverage_type": "week",
+                          "week": "1",
+                          "total": "80.98"
+                        },
+                        "team_projected_points": {
+                          "coverage_type": "week",
+                          "week": "1",
+                          "total": "111.10"
+                        }
+                      }
+                    ]
+                  },
+                  "count": 2
+                }
+              },
+              "week": "1",
+              "week_start": "2023-09-07",
+              "week_end": "2023-09-11",
+              "status": "postevent",
+              "is_playoffs": "0",
+              "is_consolation": "0",
+              "is_matchup_recap_available": 1,
+              "matchup_recap_url": "https://football.fantasysports.yahoo.com/2023/f1/189611/recap?week=1&mid1=1&mid2=4",
+              "matchup_recap_title": "Celebrate with Uber Eats, the official on-demand delivery partner of the NFL.",
+              "matchup_grades": [
+                {
+                  "matchup_grade": {
+                    "team_key": "423.l.189611.t.1",
+                    "grade": "A-"
+                  }
+                },
+                {
+                  "matchup_grade": {
+                    "team_key": "423.l.189611.t.4",
+                    "grade": "D"
+                  }
+                }
+              ],
+              "is_tied": 0,
+              "winner_team_key": "423.l.189611.t.1"
+            }
+          },
+          "1": {
+            "matchup": {
+              "0": {
+                "teams": {
+                  "0": {
+                    "team": [
+                      [
+                        {
+                          "team_key": "423.l.189611.t.1"
+                        },
+                        {
+                          "team_id": "1"
+                        },
+                        {
+                          "name": "Hurts Barkley and Hill is Hot"
+                        },
+                        {
+                          "is_owned_by_current_login": 1
+                        },
+                        {
+                          "url": "https://football.fantasysports.yahoo.com/2023/f1/189611/1"
+                        },
+                        {
+                          "team_logos": [
+                            {
+                              "team_logo": {
+                                "size": "large",
+                                "url": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/1c193bbb0a52b6009cff730cf4ccf3e07b2f58e716d11298a06f34ba8187f816.jpg"
+                              }
+                            }
+                          ]
+                        },
+                        [],
+                        {
+                          "waiver_priority": 8
+                        },
+                        [],
+                        {
+                          "number_of_moves": 15
+                        },
+                        {
+                          "number_of_trades": 0
+                        },
+                        {
+                          "roster_adds": {
+                            "coverage_type": "week",
+                            "coverage_value": 18,
+                            "value": "0"
+                          }
+                        },
+                        {
+                          "clinched_playoffs": 1
+                        },
+                        {
+                          "league_scoring_type": "head"
+                        },
+                        [],
+                        [],
+                        {
+                          "has_draft_grade": 1,
+                          "draft_grade": "B+",
+                          "draft_recap_url": "https://football.fantasysports.yahoo.com/2023/f1/189611/1/draftrecap"
+                        },
+                        [],
+                        [],
+                        [],
+                        {
+                          "managers": [
+                            {
+                              "manager": {
+                                "manager_id": "1",
+                                "nickname": "Harper",
+                                "guid": "QQIQZ2XHT2FYEW7L4TMCKO4N6A",
+                                "is_commissioner": "1",
+                                "is_current_login": "1",
+                                "image_url": "https://s.yimg.com/ag/images/2a03c2b1-5620-448e-bbeb-ddc2cf2c0c43_64sq.jpg",
+                                "felo_score": "663",
+                                "felo_tier": "silver"
+                              }
+                            }
+                          ]
+                        }
+                      ],
+                      {
+                        "win_probability": 1,
+                        "team_points": {
+                          "coverage_type": "week",
+                          "week": 2,
+                          "total": "119.52"
+                        },
+                        "team_projected_points": {
+                          "coverage_type": "week",
+                          "week": 2,
+                          "total": "110.86"
+                        }
+                      }
+                    ]
+                  },
+                  "1": {
+                    "team": [
+                      [
+                        {
+                          "team_key": "423.l.189611.t.9"
+                        },
+                        {
+                          "team_id": "9"
+                        },
+                        {
+                          "name": "Brown Bros TD Emporium"
+                        },
+                        [],
+                        {
+                          "url": "https://football.fantasysports.yahoo.com/2023/f1/189611/9"
+                        },
+                        {
+                          "team_logos": [
+                            {
+                              "team_logo": {
+                                "size": "large",
+                                "url": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/f8e24a73729c17a3190bdbaae0ef0701762c0f602736c279e746d76e2ba04adc.png"
+                              }
+                            }
+                          ]
+                        },
+                        [],
+                        {
+                          "waiver_priority": 9
+                        },
+                        [],
+                        {
+                          "number_of_moves": 34
+                        },
+                        {
+                          "number_of_trades": 0
+                        },
+                        {
+                          "roster_adds": {
+                            "coverage_type": "week",
+                            "coverage_value": 18,
+                            "value": "0"
+                          }
+                        },
+                        {
+                          "clinched_playoffs": 1
+                        },
+                        {
+                          "league_scoring_type": "head"
+                        },
+                        [],
+                        [],
+                        {
+                          "has_draft_grade": 1,
+                          "draft_grade": "F",
+                          "draft_recap_url": "https://football.fantasysports.yahoo.com/2023/f1/189611/9/draftrecap"
+                        },
+                        [],
+                        [],
+                        [],
+                        {
+                          "managers": [
+                            {
+                              "manager": {
+                                "manager_id": "9",
+                                "nickname": "Ben",
+                                "guid": "V6FJT4IDPN6W3DA7JHQENIBHXA",
+                                "image_url": "https://s.yimg.com/ag/images/default_user_profile_pic_64sq.jpg",
+                                "felo_score": "687",
+                                "felo_tier": "silver"
+                              }
+                            }
+                          ]
+                        }
+                      ],
+                      {
+                        "win_probability": 0,
+                        "team_points": {
+                          "coverage_type": "week",
+                          "week": 2,
+                          "total": "93.48"
+                        },
+                        "team_projected_points": {
+                          "coverage_type": "week",
+                          "week": 2,
+                          "total": "114.23"
+                        }
+                      }
+                    ]
+                  },
+                  "count": 2
+                }
+              },
+              "week": 2,
+              "week_start": "2023-09-12",
+              "week_end": "2023-09-18",
+              "status": "postevent",
+              "is_playoffs": "0",
+              "is_consolation": "0",
+              "is_matchup_recap_available": 1,
+              "matchup_recap_url": "https://football.fantasysports.yahoo.com/2023/f1/189611/recap?week=2&mid1=1&mid2=9",
+              "matchup_recap_title": "Celebrate with Uber Eats, the official on-demand delivery partner of the NFL.",
+              "matchup_grades": [
+                {
+                  "matchup_grade": {
+                    "team_key": "423.l.189611.t.1",
+                    "grade": "A"
+                  }
+                },
+                {
+                  "matchup_grade": {
+                    "team_key": "423.l.189611.t.9",
+                    "grade": "D+"
+                  }
+                }
+              ],
+              "is_tied": 0,
+              "winner_team_key": "423.l.189611.t.1"
+            }
+          },
+          "2": {
+            "matchup": {
+              "0": {
+                "teams": {
+                  "0": {
+                    "team": [
+                      [
+                        {
+                          "team_key": "423.l.189611.t.1"
+                        },
+                        {
+                          "team_id": "1"
+                        },
+                        {
+                          "name": "Hurts Barkley and Hill is Hot"
+                        },
+                        {
+                          "is_owned_by_current_login": 1
+                        },
+                        {
+                          "url": "https://football.fantasysports.yahoo.com/2023/f1/189611/1"
+                        },
+                        {
+                          "team_logos": [
+                            {
+                              "team_logo": {
+                                "size": "large",
+                                "url": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/1c193bbb0a52b6009cff730cf4ccf3e07b2f58e716d11298a06f34ba8187f816.jpg"
+                              }
+                            }
+                          ]
+                        },
+                        [],
+                        {
+                          "waiver_priority": 8
+                        },
+                        [],
+                        {
+                          "number_of_moves": 15
+                        },
+                        {
+                          "number_of_trades": 0
+                        },
+                        {
+                          "roster_adds": {
+                            "coverage_type": "week",
+                            "coverage_value": 18,
+                            "value": "0"
+                          }
+                        },
+                        {
+                          "clinched_playoffs": 1
+                        },
+                        {
+                          "league_scoring_type": "head"
+                        },
+                        [],
+                        [],
+                        {
+                          "has_draft_grade": 1,
+                          "draft_grade": "B+",
+                          "draft_recap_url": "https://football.fantasysports.yahoo.com/2023/f1/189611/1/draftrecap"
+                        },
+                        [],
+                        [],
+                        [],
+                        {
+                          "managers": [
+                            {
+                              "manager": {
+                                "manager_id": "1",
+                                "nickname": "Harper",
+                                "guid": "QQIQZ2XHT2FYEW7L4TMCKO4N6A",
+                                "is_commissioner": "1",
+                                "is_current_login": "1",
+                                "image_url": "https://s.yimg.com/ag/images/2a03c2b1-5620-448e-bbeb-ddc2cf2c0c43_64sq.jpg",
+                                "felo_score": "663",
+                                "felo_tier": "silver"
+                              }
+                            }
+                          ]
+                        }
+                      ],
+                      {
+                        "win_probability": 0,
+                        "team_points": {
+                          "coverage_type": "week",
+                          "week": 3,
+                          "total": "141.08"
+                        },
+                        "team_projected_points": {
+                          "coverage_type": "week",
+                          "week": 3,
+                          "total": "113.12"
+                        }
+                      }
+                    ]
+                  },
+                  "1": {
+                    "team": [
+                      [
+                        {
+                          "team_key": "423.l.189611.t.8"
+                        },
+                        {
+                          "team_id": "8"
+                        },
+                        {
+                          "name": "Belly Ache Bitch Bijan"
+                        },
+                        [],
+                        {
+                          "url": "https://football.fantasysports.yahoo.com/2023/f1/189611/8"
+                        },
+                        {
+                          "team_logos": [
+                            {
+                              "team_logo": {
+                                "size": "large",
+                                "url": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/f28efa10985bd5d34482d44506df261d1a1fcfd5fd035efb8d0772e071260672.jpg"
+                              }
+                            }
+                          ]
+                        },
+                        [],
+                        {
+                          "waiver_priority": 4
+                        },
+                        [],
+                        {
+                          "number_of_moves": 24
+                        },
+                        {
+                          "number_of_trades": 0
+                        },
+                        {
+                          "roster_adds": {
+                            "coverage_type": "week",
+                            "coverage_value": 18,
+                            "value": "0"
+                          }
+                        },
+                        [],
+                        {
+                          "league_scoring_type": "head"
+                        },
+                        [],
+                        [],
+                        {
+                          "has_draft_grade": 1,
+                          "draft_grade": "C",
+                          "draft_recap_url": "https://football.fantasysports.yahoo.com/2023/f1/189611/8/draftrecap"
+                        },
+                        [],
+                        [],
+                        [],
+                        {
+                          "managers": [
+                            {
+                              "manager": {
+                                "manager_id": "8",
+                                "nickname": "Price",
+                                "guid": "45GPWLXXN6MH43YQQCZ5BXH4KQ",
+                                "image_url": "https://s.yimg.com/ag/images/default_user_profile_pic_64sq.jpg",
+                                "felo_score": "581",
+                                "felo_tier": "bronze"
+                              }
+                            }
+                          ]
+                        }
+                      ],
+                      {
+                        "win_probability": 1,
+                        "team_points": {
+                          "coverage_type": "week",
+                          "week": 3,
+                          "total": "144.58"
+                        },
+                        "team_projected_points": {
+                          "coverage_type": "week",
+                          "week": 3,
+                          "total": "110.35"
+                        }
+                      }
+                    ]
+                  },
+                  "count": 2
+                }
+              },
+              "week": 3,
+              "week_start": "2023-09-19",
+              "week_end": "2023-09-25",
+              "status": "postevent",
+              "is_playoffs": "0",
+              "is_consolation": "0",
+              "is_matchup_recap_available": 1,
+              "matchup_recap_url": "https://football.fantasysports.yahoo.com/2023/f1/189611/recap?week=3&mid1=1&mid2=8",
+              "matchup_recap_title": "Win or lose, order gameday deals with Uber Eats.",
+              "matchup_grades": [
+                {
+                  "matchup_grade": {
+                    "team_key": "423.l.189611.t.1",
+                    "grade": "C+"
+                  }
+                },
+                {
+                  "matchup_grade": {
+                    "team_key": "423.l.189611.t.8",
+                    "grade": "A-"
+                  }
+                }
+              ],
+              "is_tied": 0,
+              "winner_team_key": "423.l.189611.t.8"
+            }
+          },
+          "3": {
+            "matchup": {
+              "0": {
+                "teams": {
+                  "0": {
+                    "team": [
+                      [
+                        {
+                          "team_key": "423.l.189611.t.1"
+                        },
+                        {
+                          "team_id": "1"
+                        },
+                        {
+                          "name": "Hurts Barkley and Hill is Hot"
+                        },
+                        {
+                          "is_owned_by_current_login": 1
+                        },
+                        {
+                          "url": "https://football.fantasysports.yahoo.com/2023/f1/189611/1"
+                        },
+                        {
+                          "team_logos": [
+                            {
+                              "team_logo": {
+                                "size": "large",
+                                "url": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/1c193bbb0a52b6009cff730cf4ccf3e07b2f58e716d11298a06f34ba8187f816.jpg"
+                              }
+                            }
+                          ]
+                        },
+                        [],
+                        {
+                          "waiver_priority": 8
+                        },
+                        [],
+                        {
+                          "number_of_moves": 15
+                        },
+                        {
+                          "number_of_trades": 0
+                        },
+                        {
+                          "roster_adds": {
+                            "coverage_type": "week",
+                            "coverage_value": 18,
+                            "value": "0"
+                          }
+                        },
+                        {
+                          "clinched_playoffs": 1
+                        },
+                        {
+                          "league_scoring_type": "head"
+                        },
+                        [],
+                        [],
+                        {
+                          "has_draft_grade": 1,
+                          "draft_grade": "B+",
+                          "draft_recap_url": "https://football.fantasysports.yahoo.com/2023/f1/189611/1/draftrecap"
+                        },
+                        [],
+                        [],
+                        [],
+                        {
+                          "managers": [
+                            {
+                              "manager": {
+                                "manager_id": "1",
+                                "nickname": "Harper",
+                                "guid": "QQIQZ2XHT2FYEW7L4TMCKO4N6A",
+                                "is_commissioner": "1",
+                                "is_current_login": "1",
+                                "image_url": "https://s.yimg.com/ag/images/2a03c2b1-5620-448e-bbeb-ddc2cf2c0c43_64sq.jpg",
+                                "felo_score": "663",
+                                "felo_tier": "silver"
+                              }
+                            }
+                          ]
+                        }
+                      ],
+                      {
+                        "win_probability": 1,
+                        "team_points": {
+                          "coverage_type": "week",
+                          "week": 4,
+                          "total": "106.46"
+                        },
+                        "team_projected_points": {
+                          "coverage_type": "week",
+                          "week": 4,
+                          "total": "108.15"
+                        }
+                      }
+                    ]
+                  },
+                  "1": {
+                    "team": [
+                      [
+                        {
+                          "team_key": "423.l.189611.t.5"
+                        },
+                        {
+                          "team_id": "5"
+                        },
+                        {
+                          "name": "My Chubbs Gone"
+                        },
+                        [],
+                        {
+                          "url": "https://football.fantasysports.yahoo.com/2023/f1/189611/5"
+                        },
+                        {
+                          "team_logos": [
+                            {
+                              "team_logo": {
+                                "size": "large",
+                                "url": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/238b6249163b26285c66bffcac9c6d578eebfed667ef87a67cc93f269fac21bc.jpg"
+                              }
+                            }
+                          ]
+                        },
+                        [],
+                        {
+                          "waiver_priority": 3
+                        },
+                        [],
+                        {
+                          "number_of_moves": 12
+                        },
+                        {
+                          "number_of_trades": 0
+                        },
+                        {
+                          "roster_adds": {
+                            "coverage_type": "week",
+                            "coverage_value": 18,
+                            "value": "0"
+                          }
+                        },
+                        [],
+                        {
+                          "league_scoring_type": "head"
+                        },
+                        [],
+                        [],
+                        {
+                          "has_draft_grade": 1,
+                          "draft_grade": "A+",
+                          "draft_recap_url": "https://football.fantasysports.yahoo.com/2023/f1/189611/5/draftrecap"
+                        },
+                        [],
+                        [],
+                        [],
+                        {
+                          "managers": [
+                            {
+                              "manager": {
+                                "manager_id": "5",
+                                "nickname": "Ray",
+                                "guid": "PQTGH5PYJD67IW5LHQ426XKEGU",
+                                "image_url": "https://s.yimg.com/ag/images/default_user_profile_pic_64sq.jpg",
+                                "felo_score": "572",
+                                "felo_tier": "bronze"
+                              }
+                            }
+                          ]
+                        }
+                      ],
+                      {
+                        "win_probability": 0,
+                        "team_points": {
+                          "coverage_type": "week",
+                          "week": 4,
+                          "total": "81.54"
+                        },
+                        "team_projected_points": {
+                          "coverage_type": "week",
+                          "week": 4,
+                          "total": "103.91"
+                        }
+                      }
+                    ]
+                  },
+                  "count": 2
+                }
+              },
+              "week": 4,
+              "week_start": "2023-09-26",
+              "week_end": "2023-10-02",
+              "status": "postevent",
+              "is_playoffs": "0",
+              "is_consolation": "0",
+              "is_matchup_recap_available": 1,
+              "matchup_recap_url": "https://football.fantasysports.yahoo.com/2023/f1/189611/recap?week=4&mid1=1&mid2=5",
+              "matchup_recap_title": "Celebrate with Uber Eats, the official on-demand delivery partner of the NFL.",
+              "matchup_grades": [
+                {
+                  "matchup_grade": {
+                    "team_key": "423.l.189611.t.1",
+                    "grade": "A-"
+                  }
+                },
+                {
+                  "matchup_grade": {
+                    "team_key": "423.l.189611.t.5",
+                    "grade": "D"
+                  }
+                }
+              ],
+              "is_tied": 0,
+              "winner_team_key": "423.l.189611.t.1"
+            }
+          },
+          "4": {
+            "matchup": {
+              "0": {
+                "teams": {
+                  "0": {
+                    "team": [
+                      [
+                        {
+                          "team_key": "423.l.189611.t.1"
+                        },
+                        {
+                          "team_id": "1"
+                        },
+                        {
+                          "name": "Hurts Barkley and Hill is Hot"
+                        },
+                        {
+                          "is_owned_by_current_login": 1
+                        },
+                        {
+                          "url": "https://football.fantasysports.yahoo.com/2023/f1/189611/1"
+                        },
+                        {
+                          "team_logos": [
+                            {
+                              "team_logo": {
+                                "size": "large",
+                                "url": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/1c193bbb0a52b6009cff730cf4ccf3e07b2f58e716d11298a06f34ba8187f816.jpg"
+                              }
+                            }
+                          ]
+                        },
+                        [],
+                        {
+                          "waiver_priority": 8
+                        },
+                        [],
+                        {
+                          "number_of_moves": 15
+                        },
+                        {
+                          "number_of_trades": 0
+                        },
+                        {
+                          "roster_adds": {
+                            "coverage_type": "week",
+                            "coverage_value": 18,
+                            "value": "0"
+                          }
+                        },
+                        {
+                          "clinched_playoffs": 1
+                        },
+                        {
+                          "league_scoring_type": "head"
+                        },
+                        [],
+                        [],
+                        {
+                          "has_draft_grade": 1,
+                          "draft_grade": "B+",
+                          "draft_recap_url": "https://football.fantasysports.yahoo.com/2023/f1/189611/1/draftrecap"
+                        },
+                        [],
+                        [],
+                        [],
+                        {
+                          "managers": [
+                            {
+                              "manager": {
+                                "manager_id": "1",
+                                "nickname": "Harper",
+                                "guid": "QQIQZ2XHT2FYEW7L4TMCKO4N6A",
+                                "is_commissioner": "1",
+                                "is_current_login": "1",
+                                "image_url": "https://s.yimg.com/ag/images/2a03c2b1-5620-448e-bbeb-ddc2cf2c0c43_64sq.jpg",
+                                "felo_score": "663",
+                                "felo_tier": "silver"
+                              }
+                            }
+                          ]
+                        }
+                      ],
+                      {
+                        "win_probability": 1,
+                        "team_points": {
+                          "coverage_type": "week",
+                          "week": 5,
+                          "total": "159.32"
+                        },
+                        "team_projected_points": {
+                          "coverage_type": "week",
+                          "week": 5,
+                          "total": "117.48"
+                        }
+                      }
+                    ]
+                  },
+                  "1": {
+                    "team": [
+                      [
+                        {
+                          "team_key": "423.l.189611.t.3"
+                        },
+                        {
+                          "team_id": "3"
+                        },
+                        {
+                          "name": "Chase-in Doubs"
+                        },
+                        [],
+                        {
+                          "url": "https://football.fantasysports.yahoo.com/2023/f1/189611/3"
+                        },
+                        {
+                          "team_logos": [
+                            {
+                              "team_logo": {
+                                "size": "large",
+                                "url": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/d564a41617cfdb451824ef53bd8b7598b06e632f5aa877d52f0b4a0d1d074aa8.jpg"
+                              }
+                            }
+                          ]
+                        },
+                        [],
+                        {
+                          "waiver_priority": 7
+                        },
+                        [],
+                        {
+                          "number_of_moves": 17
+                        },
+                        {
+                          "number_of_trades": 0
+                        },
+                        {
+                          "roster_adds": {
+                            "coverage_type": "week",
+                            "coverage_value": 18,
+                            "value": "0"
+                          }
+                        },
+                        {
+                          "clinched_playoffs": 1
+                        },
+                        {
+                          "league_scoring_type": "head"
+                        },
+                        [],
+                        [],
+                        {
+                          "has_draft_grade": 1,
+                          "draft_grade": "A-",
+                          "draft_recap_url": "https://football.fantasysports.yahoo.com/2023/f1/189611/3/draftrecap"
+                        },
+                        [],
+                        [],
+                        [],
+                        {
+                          "managers": [
+                            {
+                              "manager": {
+                                "manager_id": "3",
+                                "nickname": "Colin",
+                                "guid": "UYU23V4FIVN7IIE3Y5KWUU6VDU",
+                                "image_url": "https://s.yimg.com/ag/images/5990deb1-f13b-406c-9aba-9d052d265941zU_64sq.jpg",
+                                "felo_score": "787",
+                                "felo_tier": "gold"
+                              }
+                            }
+                          ]
+                        }
+                      ],
+                      {
+                        "win_probability": 0,
+                        "team_points": {
+                          "coverage_type": "week",
+                          "week": 5,
+                          "total": "137.44"
+                        },
+                        "team_projected_points": {
+                          "coverage_type": "week",
+                          "week": 5,
+                          "total": "120.00"
+                        }
+                      }
+                    ]
+                  },
+                  "count": 2
+                }
+              },
+              "week": 5,
+              "week_start": "2023-10-03",
+              "week_end": "2023-10-09",
+              "status": "postevent",
+              "is_playoffs": "0",
+              "is_consolation": "0",
+              "is_matchup_recap_available": 1,
+              "matchup_recap_url": "https://football.fantasysports.yahoo.com/2023/f1/189611/recap?week=5&mid1=1&mid2=3",
+              "matchup_recap_title": "Celebrate with Uber Eats, the official on-demand delivery partner of the NFL.",
+              "matchup_grades": [
+                {
+                  "matchup_grade": {
+                    "team_key": "423.l.189611.t.1",
+                    "grade": "A+"
+                  }
+                },
+                {
+                  "matchup_grade": {
+                    "team_key": "423.l.189611.t.3",
+                    "grade": "C-"
+                  }
+                }
+              ],
+              "is_tied": 0,
+              "winner_team_key": "423.l.189611.t.1"
+            }
+          },
+          "5": {
+            "matchup": {
+              "0": {
+                "teams": {
+                  "0": {
+                    "team": [
+                      [
+                        {
+                          "team_key": "423.l.189611.t.1"
+                        },
+                        {
+                          "team_id": "1"
+                        },
+                        {
+                          "name": "Hurts Barkley and Hill is Hot"
+                        },
+                        {
+                          "is_owned_by_current_login": 1
+                        },
+                        {
+                          "url": "https://football.fantasysports.yahoo.com/2023/f1/189611/1"
+                        },
+                        {
+                          "team_logos": [
+                            {
+                              "team_logo": {
+                                "size": "large",
+                                "url": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/1c193bbb0a52b6009cff730cf4ccf3e07b2f58e716d11298a06f34ba8187f816.jpg"
+                              }
+                            }
+                          ]
+                        },
+                        [],
+                        {
+                          "waiver_priority": 8
+                        },
+                        [],
+                        {
+                          "number_of_moves": 15
+                        },
+                        {
+                          "number_of_trades": 0
+                        },
+                        {
+                          "roster_adds": {
+                            "coverage_type": "week",
+                            "coverage_value": 18,
+                            "value": "0"
+                          }
+                        },
+                        {
+                          "clinched_playoffs": 1
+                        },
+                        {
+                          "league_scoring_type": "head"
+                        },
+                        [],
+                        [],
+                        {
+                          "has_draft_grade": 1,
+                          "draft_grade": "B+",
+                          "draft_recap_url": "https://football.fantasysports.yahoo.com/2023/f1/189611/1/draftrecap"
+                        },
+                        [],
+                        [],
+                        [],
+                        {
+                          "managers": [
+                            {
+                              "manager": {
+                                "manager_id": "1",
+                                "nickname": "Harper",
+                                "guid": "QQIQZ2XHT2FYEW7L4TMCKO4N6A",
+                                "is_commissioner": "1",
+                                "is_current_login": "1",
+                                "image_url": "https://s.yimg.com/ag/images/2a03c2b1-5620-448e-bbeb-ddc2cf2c0c43_64sq.jpg",
+                                "felo_score": "663",
+                                "felo_tier": "silver"
+                              }
+                            }
+                          ]
+                        }
+                      ],
+                      {
+                        "win_probability": 1,
+                        "team_points": {
+                          "coverage_type": "week",
+                          "week": 6,
+                          "total": "138.90"
+                        },
+                        "team_projected_points": {
+                          "coverage_type": "week",
+                          "week": 6,
+                          "total": "120.54"
+                        }
+                      }
+                    ]
+                  },
+                  "1": {
+                    "team": [
+                      [
+                        {
+                          "team_key": "423.l.189611.t.10"
+                        },
+                        {
+                          "team_id": "10"
+                        },
+                        {
+                          "name": "Wraith's Voidwalkers"
+                        },
+                        [],
+                        {
+                          "url": "https://football.fantasysports.yahoo.com/2023/f1/189611/10"
+                        },
+                        {
+                          "team_logos": [
+                            {
+                              "team_logo": {
+                                "size": "large",
+                                "url": "https://s.yimg.com/cv/apiv2/default/nfl/nfl_11_u.png"
+                              }
+                            }
+                          ]
+                        },
+                        [],
+                        {
+                          "waiver_priority": 1
+                        },
+                        [],
+                        {
+                          "number_of_moves": 20
+                        },
+                        {
+                          "number_of_trades": 0
+                        },
+                        {
+                          "roster_adds": {
+                            "coverage_type": "week",
+                            "coverage_value": 18,
+                            "value": "0"
+                          }
+                        },
+                        [],
+                        {
+                          "league_scoring_type": "head"
+                        },
+                        [],
+                        [],
+                        {
+                          "has_draft_grade": 1,
+                          "draft_grade": "D+",
+                          "draft_recap_url": "https://football.fantasysports.yahoo.com/2023/f1/189611/10/draftrecap"
+                        },
+                        [],
+                        [],
+                        [],
+                        {
+                          "managers": [
+                            {
+                              "manager": {
+                                "manager_id": "10",
+                                "nickname": "Uzoma",
+                                "guid": "T5PNGF26DSS77SA7SY4NYJW4C4",
+                                "image_url": "https://s.yimg.com/ag/images/default_user_profile_pic_64sq.jpg",
+                                "felo_score": "594",
+                                "felo_tier": "bronze"
+                              }
+                            }
+                          ]
+                        }
+                      ],
+                      {
+                        "win_probability": 0,
+                        "team_points": {
+                          "coverage_type": "week",
+                          "week": 6,
+                          "total": "107.48"
+                        },
+                        "team_projected_points": {
+                          "coverage_type": "week",
+                          "week": 6,
+                          "total": "106.15"
+                        }
+                      }
+                    ]
+                  },
+                  "count": 2
+                }
+              },
+              "week": 6,
+              "week_start": "2023-10-10",
+              "week_end": "2023-10-16",
+              "status": "postevent",
+              "is_playoffs": "0",
+              "is_consolation": "0",
+              "is_matchup_recap_available": 1,
+              "matchup_recap_url": "https://football.fantasysports.yahoo.com/2023/f1/189611/recap?week=6&mid1=1&mid2=10",
+              "matchup_recap_title": "Celebrate with Uber Eats, the official on-demand delivery partner of the NFL.",
+              "matchup_grades": [
+                {
+                  "matchup_grade": {
+                    "team_key": "423.l.189611.t.1",
+                    "grade": "A+"
+                  }
+                },
+                {
+                  "matchup_grade": {
+                    "team_key": "423.l.189611.t.10",
+                    "grade": "D+"
+                  }
+                }
+              ],
+              "is_tied": 0,
+              "winner_team_key": "423.l.189611.t.1"
+            }
+          },
+          "6": {
+            "matchup": {
+              "0": {
+                "teams": {
+                  "0": {
+                    "team": [
+                      [
+                        {
+                          "team_key": "423.l.189611.t.1"
+                        },
+                        {
+                          "team_id": "1"
+                        },
+                        {
+                          "name": "Hurts Barkley and Hill is Hot"
+                        },
+                        {
+                          "is_owned_by_current_login": 1
+                        },
+                        {
+                          "url": "https://football.fantasysports.yahoo.com/2023/f1/189611/1"
+                        },
+                        {
+                          "team_logos": [
+                            {
+                              "team_logo": {
+                                "size": "large",
+                                "url": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/1c193bbb0a52b6009cff730cf4ccf3e07b2f58e716d11298a06f34ba8187f816.jpg"
+                              }
+                            }
+                          ]
+                        },
+                        [],
+                        {
+                          "waiver_priority": 8
+                        },
+                        [],
+                        {
+                          "number_of_moves": 15
+                        },
+                        {
+                          "number_of_trades": 0
+                        },
+                        {
+                          "roster_adds": {
+                            "coverage_type": "week",
+                            "coverage_value": 18,
+                            "value": "0"
+                          }
+                        },
+                        {
+                          "clinched_playoffs": 1
+                        },
+                        {
+                          "league_scoring_type": "head"
+                        },
+                        [],
+                        [],
+                        {
+                          "has_draft_grade": 1,
+                          "draft_grade": "B+",
+                          "draft_recap_url": "https://football.fantasysports.yahoo.com/2023/f1/189611/1/draftrecap"
+                        },
+                        [],
+                        [],
+                        [],
+                        {
+                          "managers": [
+                            {
+                              "manager": {
+                                "manager_id": "1",
+                                "nickname": "Harper",
+                                "guid": "QQIQZ2XHT2FYEW7L4TMCKO4N6A",
+                                "is_commissioner": "1",
+                                "is_current_login": "1",
+                                "image_url": "https://s.yimg.com/ag/images/2a03c2b1-5620-448e-bbeb-ddc2cf2c0c43_64sq.jpg",
+                                "felo_score": "663",
+                                "felo_tier": "silver"
+                              }
+                            }
+                          ]
+                        }
+                      ],
+                      {
+                        "win_probability": 0,
+                        "team_points": {
+                          "coverage_type": "week",
+                          "week": 7,
+                          "total": "118.56"
+                        },
+                        "team_projected_points": {
+                          "coverage_type": "week",
+                          "week": 7,
+                          "total": "110.45"
+                        }
+                      }
+                    ]
+                  },
+                  "1": {
+                    "team": [
+                      [
+                        {
+                          "team_key": "423.l.189611.t.6"
+                        },
+                        {
+                          "team_id": "6"
+                        },
+                        {
+                          "name": "Piccolos Cage"
+                        },
+                        [],
+                        {
+                          "url": "https://football.fantasysports.yahoo.com/2023/f1/189611/6"
+                        },
+                        {
+                          "team_logos": [
+                            {
+                              "team_logo": {
+                                "size": "large",
+                                "url": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/36471028380_f446fa.jpg"
+                              }
+                            }
+                          ]
+                        },
+                        [],
+                        {
+                          "waiver_priority": 2
+                        },
+                        [],
+                        {
+                          "number_of_moves": 10
+                        },
+                        {
+                          "number_of_trades": 0
+                        },
+                        {
+                          "roster_adds": {
+                            "coverage_type": "week",
+                            "coverage_value": 18,
+                            "value": "0"
+                          }
+                        },
+                        [],
+                        {
+                          "league_scoring_type": "head"
+                        },
+                        [],
+                        [],
+                        {
+                          "has_draft_grade": 1,
+                          "draft_grade": "D",
+                          "draft_recap_url": "https://football.fantasysports.yahoo.com/2023/f1/189611/6/draftrecap"
+                        },
+                        [],
+                        [],
+                        [],
+                        {
+                          "managers": [
+                            {
+                              "manager": {
+                                "manager_id": "6",
+                                "nickname": "John",
+                                "guid": "3E3VRNLIEXCQBVWJG2W3U2476M",
+                                "image_url": "https://s.yimg.com/ag/images/4458/23715220387_18d070_64sq.jpg",
+                                "felo_score": "597",
+                                "felo_tier": "bronze"
+                              }
+                            }
+                          ]
+                        }
+                      ],
+                      {
+                        "win_probability": 1,
+                        "team_points": {
+                          "coverage_type": "week",
+                          "week": 7,
+                          "total": "126.66"
+                        },
+                        "team_projected_points": {
+                          "coverage_type": "week",
+                          "week": 7,
+                          "total": "103.11"
+                        }
+                      }
+                    ]
+                  },
+                  "count": 2
+                }
+              },
+              "week": 7,
+              "week_start": "2023-10-17",
+              "week_end": "2023-10-23",
+              "status": "postevent",
+              "is_playoffs": "0",
+              "is_consolation": "0",
+              "is_matchup_recap_available": 1,
+              "matchup_recap_url": "https://football.fantasysports.yahoo.com/2023/f1/189611/recap?week=7&mid1=1&mid2=6",
+              "matchup_recap_title": "Win or lose, order gameday deals with Uber Eats.",
+              "matchup_grades": [
+                {
+                  "matchup_grade": {
+                    "team_key": "423.l.189611.t.1",
+                    "grade": "C"
+                  }
+                },
+                {
+                  "matchup_grade": {
+                    "team_key": "423.l.189611.t.6",
+                    "grade": "A"
+                  }
+                }
+              ],
+              "is_tied": 0,
+              "winner_team_key": "423.l.189611.t.6"
+            }
+          },
+          "7": {
+            "matchup": {
+              "0": {
+                "teams": {
+                  "0": {
+                    "team": [
+                      [
+                        {
+                          "team_key": "423.l.189611.t.1"
+                        },
+                        {
+                          "team_id": "1"
+                        },
+                        {
+                          "name": "Hurts Barkley and Hill is Hot"
+                        },
+                        {
+                          "is_owned_by_current_login": 1
+                        },
+                        {
+                          "url": "https://football.fantasysports.yahoo.com/2023/f1/189611/1"
+                        },
+                        {
+                          "team_logos": [
+                            {
+                              "team_logo": {
+                                "size": "large",
+                                "url": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/1c193bbb0a52b6009cff730cf4ccf3e07b2f58e716d11298a06f34ba8187f816.jpg"
+                              }
+                            }
+                          ]
+                        },
+                        [],
+                        {
+                          "waiver_priority": 8
+                        },
+                        [],
+                        {
+                          "number_of_moves": 15
+                        },
+                        {
+                          "number_of_trades": 0
+                        },
+                        {
+                          "roster_adds": {
+                            "coverage_type": "week",
+                            "coverage_value": 18,
+                            "value": "0"
+                          }
+                        },
+                        {
+                          "clinched_playoffs": 1
+                        },
+                        {
+                          "league_scoring_type": "head"
+                        },
+                        [],
+                        [],
+                        {
+                          "has_draft_grade": 1,
+                          "draft_grade": "B+",
+                          "draft_recap_url": "https://football.fantasysports.yahoo.com/2023/f1/189611/1/draftrecap"
+                        },
+                        [],
+                        [],
+                        [],
+                        {
+                          "managers": [
+                            {
+                              "manager": {
+                                "manager_id": "1",
+                                "nickname": "Harper",
+                                "guid": "QQIQZ2XHT2FYEW7L4TMCKO4N6A",
+                                "is_commissioner": "1",
+                                "is_current_login": "1",
+                                "image_url": "https://s.yimg.com/ag/images/2a03c2b1-5620-448e-bbeb-ddc2cf2c0c43_64sq.jpg",
+                                "felo_score": "663",
+                                "felo_tier": "silver"
+                              }
+                            }
+                          ]
+                        }
+                      ],
+                      {
+                        "win_probability": 1,
+                        "team_points": {
+                          "coverage_type": "week",
+                          "week": 8,
+                          "total": "110.96"
+                        },
+                        "team_projected_points": {
+                          "coverage_type": "week",
+                          "week": 8,
+                          "total": "118.53"
+                        }
+                      }
+                    ]
+                  },
+                  "1": {
+                    "team": [
+                      [
+                        {
+                          "team_key": "423.l.189611.t.2"
+                        },
+                        {
+                          "team_id": "2"
+                        },
+                        {
+                          "name": "Olave and the Chipmunks"
+                        },
+                        [],
+                        {
+                          "url": "https://football.fantasysports.yahoo.com/2023/f1/189611/2"
+                        },
+                        {
+                          "team_logos": [
+                            {
+                              "team_logo": {
+                                "size": "large",
+                                "url": "https://s.yimg.com/cv/apiv2/default/nfl/nfl_4.png"
+                              }
+                            }
+                          ]
+                        },
+                        [],
+                        {
+                          "waiver_priority": 10
+                        },
+                        [],
+                        {
+                          "number_of_moves": 33
+                        },
+                        {
+                          "number_of_trades": 0
+                        },
+                        {
+                          "roster_adds": {
+                            "coverage_type": "week",
+                            "coverage_value": 18,
+                            "value": "0"
+                          }
+                        },
+                        {
+                          "clinched_playoffs": 1
+                        },
+                        {
+                          "league_scoring_type": "head"
+                        },
+                        [],
+                        [],
+                        {
+                          "has_draft_grade": 1,
+                          "draft_grade": "D+",
+                          "draft_recap_url": "https://football.fantasysports.yahoo.com/2023/f1/189611/2/draftrecap"
+                        },
+                        [],
+                        [],
+                        [],
+                        {
+                          "managers": [
+                            {
+                              "manager": {
+                                "manager_id": "2",
+                                "nickname": "David",
+                                "guid": "CXWKIS3U2TPR7TNVSTVQTQ3664",
+                                "image_url": "https://s.yimg.com/ag/images/default_user_profile_pic_64sq.jpg",
+                                "felo_score": "901",
+                                "felo_tier": "diamond"
+                              }
+                            }
+                          ]
+                        }
+                      ],
+                      {
+                        "win_probability": 0,
+                        "team_points": {
+                          "coverage_type": "week",
+                          "week": 8,
+                          "total": "110.28"
+                        },
+                        "team_projected_points": {
+                          "coverage_type": "week",
+                          "week": 8,
+                          "total": "114.91"
+                        }
+                      }
+                    ]
+                  },
+                  "count": 2
+                }
+              },
+              "week": 8,
+              "week_start": "2023-10-24",
+              "week_end": "2023-10-30",
+              "status": "postevent",
+              "is_playoffs": "0",
+              "is_consolation": "0",
+              "is_matchup_recap_available": 1,
+              "matchup_recap_url": "https://football.fantasysports.yahoo.com/2023/f1/189611/recap?week=8&mid1=1&mid2=2",
+              "matchup_recap_title": "Celebrate with Uber Eats, the official on-demand delivery partner of the NFL.",
+              "matchup_grades": [
+                {
+                  "matchup_grade": {
+                    "team_key": "423.l.189611.t.1",
+                    "grade": "B"
+                  }
+                },
+                {
+                  "matchup_grade": {
+                    "team_key": "423.l.189611.t.2",
+                    "grade": "C-"
+                  }
+                }
+              ],
+              "is_tied": 0,
+              "winner_team_key": "423.l.189611.t.1"
+            }
+          },
+          "8": {
+            "matchup": {
+              "0": {
+                "teams": {
+                  "0": {
+                    "team": [
+                      [
+                        {
+                          "team_key": "423.l.189611.t.1"
+                        },
+                        {
+                          "team_id": "1"
+                        },
+                        {
+                          "name": "Hurts Barkley and Hill is Hot"
+                        },
+                        {
+                          "is_owned_by_current_login": 1
+                        },
+                        {
+                          "url": "https://football.fantasysports.yahoo.com/2023/f1/189611/1"
+                        },
+                        {
+                          "team_logos": [
+                            {
+                              "team_logo": {
+                                "size": "large",
+                                "url": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/1c193bbb0a52b6009cff730cf4ccf3e07b2f58e716d11298a06f34ba8187f816.jpg"
+                              }
+                            }
+                          ]
+                        },
+                        [],
+                        {
+                          "waiver_priority": 8
+                        },
+                        [],
+                        {
+                          "number_of_moves": 15
+                        },
+                        {
+                          "number_of_trades": 0
+                        },
+                        {
+                          "roster_adds": {
+                            "coverage_type": "week",
+                            "coverage_value": 18,
+                            "value": "0"
+                          }
+                        },
+                        {
+                          "clinched_playoffs": 1
+                        },
+                        {
+                          "league_scoring_type": "head"
+                        },
+                        [],
+                        [],
+                        {
+                          "has_draft_grade": 1,
+                          "draft_grade": "B+",
+                          "draft_recap_url": "https://football.fantasysports.yahoo.com/2023/f1/189611/1/draftrecap"
+                        },
+                        [],
+                        [],
+                        [],
+                        {
+                          "managers": [
+                            {
+                              "manager": {
+                                "manager_id": "1",
+                                "nickname": "Harper",
+                                "guid": "QQIQZ2XHT2FYEW7L4TMCKO4N6A",
+                                "is_commissioner": "1",
+                                "is_current_login": "1",
+                                "image_url": "https://s.yimg.com/ag/images/2a03c2b1-5620-448e-bbeb-ddc2cf2c0c43_64sq.jpg",
+                                "felo_score": "663",
+                                "felo_tier": "silver"
+                              }
+                            }
+                          ]
+                        }
+                      ],
+                      {
+                        "win_probability": 0,
+                        "team_points": {
+                          "coverage_type": "week",
+                          "week": 9,
+                          "total": "98.38"
+                        },
+                        "team_projected_points": {
+                          "coverage_type": "week",
+                          "week": 9,
+                          "total": "109.75"
+                        }
+                      }
+                    ]
+                  },
+                  "1": {
+                    "team": [
+                      [
+                        {
+                          "team_key": "423.l.189611.t.7"
+                        },
+                        {
+                          "team_id": "7"
+                        },
+                        {
+                          "name": "Saleh's Survivors"
+                        },
+                        [],
+                        {
+                          "url": "https://football.fantasysports.yahoo.com/2023/f1/189611/7"
+                        },
+                        {
+                          "team_logos": [
+                            {
+                              "team_logo": {
+                                "size": "large",
+                                "url": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/813dadb2556d9f875a6c4eb74cb5abad504b8309fe6e09d3408c66ec2fec7fc7.png"
+                              }
+                            }
+                          ]
+                        },
+                        [],
+                        {
+                          "waiver_priority": 5
+                        },
+                        [],
+                        {
+                          "number_of_moves": 19
+                        },
+                        {
+                          "number_of_trades": 0
+                        },
+                        {
+                          "roster_adds": {
+                            "coverage_type": "week",
+                            "coverage_value": 18,
+                            "value": "0"
+                          }
+                        },
+                        {
+                          "clinched_playoffs": 1
+                        },
+                        {
+                          "league_scoring_type": "head"
+                        },
+                        [],
+                        [],
+                        {
+                          "has_draft_grade": 1,
+                          "draft_grade": "D+",
+                          "draft_recap_url": "https://football.fantasysports.yahoo.com/2023/f1/189611/7/draftrecap"
+                        },
+                        [],
+                        [],
+                        [],
+                        {
+                          "managers": [
+                            {
+                              "manager": {
+                                "manager_id": "7",
+                                "nickname": "TK",
+                                "guid": "NTTZSWPHPJZEN3IU5FYWAXDCDC",
+                                "image_url": "https://s.yimg.com/ag/images/default_user_profile_pic_64sq.jpg",
+                                "felo_score": "711",
+                                "felo_tier": "gold"
+                              }
+                            }
+                          ]
+                        }
+                      ],
+                      {
+                        "win_probability": 1,
+                        "team_points": {
+                          "coverage_type": "week",
+                          "week": 9,
+                          "total": "110.02"
+                        },
+                        "team_projected_points": {
+                          "coverage_type": "week",
+                          "week": 9,
+                          "total": "100.41"
+                        }
+                      }
+                    ]
+                  },
+                  "count": 2
+                }
+              },
+              "week": 9,
+              "week_start": "2023-10-31",
+              "week_end": "2023-11-06",
+              "status": "postevent",
+              "is_playoffs": "0",
+              "is_consolation": "0",
+              "is_matchup_recap_available": 1,
+              "matchup_recap_url": "https://football.fantasysports.yahoo.com/2023/f1/189611/recap?week=9&mid1=1&mid2=7",
+              "matchup_recap_title": "Win or lose, order gameday deals with Uber Eats.",
+              "matchup_grades": [
+                {
+                  "matchup_grade": {
+                    "team_key": "423.l.189611.t.1",
+                    "grade": "D+"
+                  }
+                },
+                {
+                  "matchup_grade": {
+                    "team_key": "423.l.189611.t.7",
+                    "grade": "A-"
+                  }
+                }
+              ],
+              "is_tied": 0,
+              "winner_team_key": "423.l.189611.t.7"
+            }
+          },
+          "9": {
+            "matchup": {
+              "0": {
+                "teams": {
+                  "0": {
+                    "team": [
+                      [
+                        {
+                          "team_key": "423.l.189611.t.1"
+                        },
+                        {
+                          "team_id": "1"
+                        },
+                        {
+                          "name": "Hurts Barkley and Hill is Hot"
+                        },
+                        {
+                          "is_owned_by_current_login": 1
+                        },
+                        {
+                          "url": "https://football.fantasysports.yahoo.com/2023/f1/189611/1"
+                        },
+                        {
+                          "team_logos": [
+                            {
+                              "team_logo": {
+                                "size": "large",
+                                "url": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/1c193bbb0a52b6009cff730cf4ccf3e07b2f58e716d11298a06f34ba8187f816.jpg"
+                              }
+                            }
+                          ]
+                        },
+                        [],
+                        {
+                          "waiver_priority": 8
+                        },
+                        [],
+                        {
+                          "number_of_moves": 15
+                        },
+                        {
+                          "number_of_trades": 0
+                        },
+                        {
+                          "roster_adds": {
+                            "coverage_type": "week",
+                            "coverage_value": 18,
+                            "value": "0"
+                          }
+                        },
+                        {
+                          "clinched_playoffs": 1
+                        },
+                        {
+                          "league_scoring_type": "head"
+                        },
+                        [],
+                        [],
+                        {
+                          "has_draft_grade": 1,
+                          "draft_grade": "B+",
+                          "draft_recap_url": "https://football.fantasysports.yahoo.com/2023/f1/189611/1/draftrecap"
+                        },
+                        [],
+                        [],
+                        [],
+                        {
+                          "managers": [
+                            {
+                              "manager": {
+                                "manager_id": "1",
+                                "nickname": "Harper",
+                                "guid": "QQIQZ2XHT2FYEW7L4TMCKO4N6A",
+                                "is_commissioner": "1",
+                                "is_current_login": "1",
+                                "image_url": "https://s.yimg.com/ag/images/2a03c2b1-5620-448e-bbeb-ddc2cf2c0c43_64sq.jpg",
+                                "felo_score": "663",
+                                "felo_tier": "silver"
+                              }
+                            }
+                          ]
+                        }
+                      ],
+                      {
+                        "win_probability": 0.18999999999999995,
+                        "team_points": {
+                          "coverage_type": "week",
+                          "week": 10,
+                          "total": "99.24"
+                        },
+                        "team_projected_points": {
+                          "coverage_type": "week",
+                          "week": 10,
+                          "total": "101.84"
+                        }
+                      }
+                    ]
+                  },
+                  "1": {
+                    "team": [
+                      [
+                        {
+                          "team_key": "423.l.189611.t.4"
+                        },
+                        {
+                          "team_id": "4"
+                        },
+                        {
+                          "name": "Breece’s Pieces"
+                        },
+                        [],
+                        {
+                          "url": "https://football.fantasysports.yahoo.com/2023/f1/189611/4"
+                        },
+                        {
+                          "team_logos": [
+                            {
+                              "team_logo": {
+                                "size": "large",
+                                "url": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/56477432081_bebbe2.png"
+                              }
+                            }
+                          ]
+                        },
+                        [],
+                        {
+                          "waiver_priority": 6
+                        },
+                        [],
+                        {
+                          "number_of_moves": 13
+                        },
+                        {
+                          "number_of_trades": 0
+                        },
+                        {
+                          "roster_adds": {
+                            "coverage_type": "week",
+                            "coverage_value": 18,
+                            "value": "0"
+                          }
+                        },
+                        {
+                          "clinched_playoffs": 1
+                        },
+                        {
+                          "league_scoring_type": "head"
+                        },
+                        [],
+                        [],
+                        {
+                          "has_draft_grade": 1,
+                          "draft_grade": "A+",
+                          "draft_recap_url": "https://football.fantasysports.yahoo.com/2023/f1/189611/4/draftrecap"
+                        },
+                        [],
+                        [],
+                        [],
+                        {
+                          "managers": [
+                            {
+                              "manager": {
+                                "manager_id": "4",
+                                "nickname": "cass",
+                                "guid": "N3M4WFRKGYVYHLCJPSICQUG4GE",
+                                "image_url": "https://s.yimg.com/ag/images/default_user_profile_pic_64sq.jpg",
+                                "felo_score": "793",
+                                "felo_tier": "gold"
+                              }
+                            }
+                          ]
+                        }
+                      ],
+                      {
+                        "win_probability": 0.81,
+                        "team_points": {
+                          "coverage_type": "week",
+                          "week": 10,
+                          "total": "113.88"
+                        },
+                        "team_projected_points": {
+                          "coverage_type": "week",
+                          "week": 10,
+                          "total": "108.29"
+                        }
+                      }
+                    ]
+                  },
+                  "count": 2
+                }
+              },
+              "week": 10,
+              "week_start": "2023-11-07",
+              "week_end": "2023-11-13",
+              "status": "postevent",
+              "is_playoffs": "0",
+              "is_consolation": "0",
+              "is_matchup_recap_available": 1,
+              "matchup_recap_url": "https://football.fantasysports.yahoo.com/2023/f1/189611/recap?week=10&mid1=1&mid2=4",
+              "matchup_recap_title": "Win or lose, order gameday deals with Uber Eats.",
+              "matchup_grades": [
+                {
+                  "matchup_grade": {
+                    "team_key": "423.l.189611.t.1",
+                    "grade": "D+"
+                  }
+                },
+                {
+                  "matchup_grade": {
+                    "team_key": "423.l.189611.t.4",
+                    "grade": "A-"
+                  }
+                }
+              ],
+              "is_tied": 0,
+              "winner_team_key": "423.l.189611.t.4"
+            }
+          },
+          "10": {
+            "matchup": {
+              "0": {
+                "teams": {
+                  "0": {
+                    "team": [
+                      [
+                        {
+                          "team_key": "423.l.189611.t.1"
+                        },
+                        {
+                          "team_id": "1"
+                        },
+                        {
+                          "name": "Hurts Barkley and Hill is Hot"
+                        },
+                        {
+                          "is_owned_by_current_login": 1
+                        },
+                        {
+                          "url": "https://football.fantasysports.yahoo.com/2023/f1/189611/1"
+                        },
+                        {
+                          "team_logos": [
+                            {
+                              "team_logo": {
+                                "size": "large",
+                                "url": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/1c193bbb0a52b6009cff730cf4ccf3e07b2f58e716d11298a06f34ba8187f816.jpg"
+                              }
+                            }
+                          ]
+                        },
+                        [],
+                        {
+                          "waiver_priority": 8
+                        },
+                        [],
+                        {
+                          "number_of_moves": 15
+                        },
+                        {
+                          "number_of_trades": 0
+                        },
+                        {
+                          "roster_adds": {
+                            "coverage_type": "week",
+                            "coverage_value": 18,
+                            "value": "0"
+                          }
+                        },
+                        {
+                          "clinched_playoffs": 1
+                        },
+                        {
+                          "league_scoring_type": "head"
+                        },
+                        [],
+                        [],
+                        {
+                          "has_draft_grade": 1,
+                          "draft_grade": "B+",
+                          "draft_recap_url": "https://football.fantasysports.yahoo.com/2023/f1/189611/1/draftrecap"
+                        },
+                        [],
+                        [],
+                        [],
+                        {
+                          "managers": [
+                            {
+                              "manager": {
+                                "manager_id": "1",
+                                "nickname": "Harper",
+                                "guid": "QQIQZ2XHT2FYEW7L4TMCKO4N6A",
+                                "is_commissioner": "1",
+                                "is_current_login": "1",
+                                "image_url": "https://s.yimg.com/ag/images/2a03c2b1-5620-448e-bbeb-ddc2cf2c0c43_64sq.jpg",
+                                "felo_score": "663",
+                                "felo_tier": "silver"
+                              }
+                            }
+                          ]
+                        }
+                      ],
+                      {
+                        "win_probability": 1,
+                        "team_points": {
+                          "coverage_type": "week",
+                          "week": 11,
+                          "total": "148.70"
+                        },
+                        "team_projected_points": {
+                          "coverage_type": "week",
+                          "week": 11,
+                          "total": "109.51"
+                        }
+                      }
+                    ]
+                  },
+                  "1": {
+                    "team": [
+                      [
+                        {
+                          "team_key": "423.l.189611.t.9"
+                        },
+                        {
+                          "team_id": "9"
+                        },
+                        {
+                          "name": "Brown Bros TD Emporium"
+                        },
+                        [],
+                        {
+                          "url": "https://football.fantasysports.yahoo.com/2023/f1/189611/9"
+                        },
+                        {
+                          "team_logos": [
+                            {
+                              "team_logo": {
+                                "size": "large",
+                                "url": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/f8e24a73729c17a3190bdbaae0ef0701762c0f602736c279e746d76e2ba04adc.png"
+                              }
+                            }
+                          ]
+                        },
+                        [],
+                        {
+                          "waiver_priority": 9
+                        },
+                        [],
+                        {
+                          "number_of_moves": 34
+                        },
+                        {
+                          "number_of_trades": 0
+                        },
+                        {
+                          "roster_adds": {
+                            "coverage_type": "week",
+                            "coverage_value": 18,
+                            "value": "0"
+                          }
+                        },
+                        {
+                          "clinched_playoffs": 1
+                        },
+                        {
+                          "league_scoring_type": "head"
+                        },
+                        [],
+                        [],
+                        {
+                          "has_draft_grade": 1,
+                          "draft_grade": "F",
+                          "draft_recap_url": "https://football.fantasysports.yahoo.com/2023/f1/189611/9/draftrecap"
+                        },
+                        [],
+                        [],
+                        [],
+                        {
+                          "managers": [
+                            {
+                              "manager": {
+                                "manager_id": "9",
+                                "nickname": "Ben",
+                                "guid": "V6FJT4IDPN6W3DA7JHQENIBHXA",
+                                "image_url": "https://s.yimg.com/ag/images/default_user_profile_pic_64sq.jpg",
+                                "felo_score": "687",
+                                "felo_tier": "silver"
+                              }
+                            }
+                          ]
+                        }
+                      ],
+                      {
+                        "win_probability": 0,
+                        "team_points": {
+                          "coverage_type": "week",
+                          "week": 11,
+                          "total": "90.16"
+                        },
+                        "team_projected_points": {
+                          "coverage_type": "week",
+                          "week": 11,
+                          "total": "108.86"
+                        }
+                      }
+                    ]
+                  },
+                  "count": 2
+                }
+              },
+              "week": 11,
+              "week_start": "2023-11-14",
+              "week_end": "2023-11-20",
+              "status": "postevent",
+              "is_playoffs": "0",
+              "is_consolation": "0",
+              "is_matchup_recap_available": 1,
+              "matchup_recap_url": "https://football.fantasysports.yahoo.com/2023/f1/189611/recap?week=11&mid1=1&mid2=9",
+              "matchup_recap_title": "Celebrate with Uber Eats, the official on-demand delivery partner of the NFL.",
+              "matchup_grades": [
+                {
+                  "matchup_grade": {
+                    "team_key": "423.l.189611.t.1",
+                    "grade": "A+"
+                  }
+                },
+                {
+                  "matchup_grade": {
+                    "team_key": "423.l.189611.t.9",
+                    "grade": "D-"
+                  }
+                }
+              ],
+              "is_tied": 0,
+              "winner_team_key": "423.l.189611.t.1"
+            }
+          },
+          "11": {
+            "matchup": {
+              "0": {
+                "teams": {
+                  "0": {
+                    "team": [
+                      [
+                        {
+                          "team_key": "423.l.189611.t.1"
+                        },
+                        {
+                          "team_id": "1"
+                        },
+                        {
+                          "name": "Hurts Barkley and Hill is Hot"
+                        },
+                        {
+                          "is_owned_by_current_login": 1
+                        },
+                        {
+                          "url": "https://football.fantasysports.yahoo.com/2023/f1/189611/1"
+                        },
+                        {
+                          "team_logos": [
+                            {
+                              "team_logo": {
+                                "size": "large",
+                                "url": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/1c193bbb0a52b6009cff730cf4ccf3e07b2f58e716d11298a06f34ba8187f816.jpg"
+                              }
+                            }
+                          ]
+                        },
+                        [],
+                        {
+                          "waiver_priority": 8
+                        },
+                        [],
+                        {
+                          "number_of_moves": 15
+                        },
+                        {
+                          "number_of_trades": 0
+                        },
+                        {
+                          "roster_adds": {
+                            "coverage_type": "week",
+                            "coverage_value": 18,
+                            "value": "0"
+                          }
+                        },
+                        {
+                          "clinched_playoffs": 1
+                        },
+                        {
+                          "league_scoring_type": "head"
+                        },
+                        [],
+                        [],
+                        {
+                          "has_draft_grade": 1,
+                          "draft_grade": "B+",
+                          "draft_recap_url": "https://football.fantasysports.yahoo.com/2023/f1/189611/1/draftrecap"
+                        },
+                        [],
+                        [],
+                        [],
+                        {
+                          "managers": [
+                            {
+                              "manager": {
+                                "manager_id": "1",
+                                "nickname": "Harper",
+                                "guid": "QQIQZ2XHT2FYEW7L4TMCKO4N6A",
+                                "is_commissioner": "1",
+                                "is_current_login": "1",
+                                "image_url": "https://s.yimg.com/ag/images/2a03c2b1-5620-448e-bbeb-ddc2cf2c0c43_64sq.jpg",
+                                "felo_score": "663",
+                                "felo_tier": "silver"
+                              }
+                            }
+                          ]
+                        }
+                      ],
+                      {
+                        "win_probability": 1,
+                        "team_points": {
+                          "coverage_type": "week",
+                          "week": 12,
+                          "total": "148.70"
+                        },
+                        "team_projected_points": {
+                          "coverage_type": "week",
+                          "week": 12,
+                          "total": "111.91"
+                        }
+                      }
+                    ]
+                  },
+                  "1": {
+                    "team": [
+                      [
+                        {
+                          "team_key": "423.l.189611.t.8"
+                        },
+                        {
+                          "team_id": "8"
+                        },
+                        {
+                          "name": "Belly Ache Bitch Bijan"
+                        },
+                        [],
+                        {
+                          "url": "https://football.fantasysports.yahoo.com/2023/f1/189611/8"
+                        },
+                        {
+                          "team_logos": [
+                            {
+                              "team_logo": {
+                                "size": "large",
+                                "url": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/f28efa10985bd5d34482d44506df261d1a1fcfd5fd035efb8d0772e071260672.jpg"
+                              }
+                            }
+                          ]
+                        },
+                        [],
+                        {
+                          "waiver_priority": 4
+                        },
+                        [],
+                        {
+                          "number_of_moves": 24
+                        },
+                        {
+                          "number_of_trades": 0
+                        },
+                        {
+                          "roster_adds": {
+                            "coverage_type": "week",
+                            "coverage_value": 18,
+                            "value": "0"
+                          }
+                        },
+                        [],
+                        {
+                          "league_scoring_type": "head"
+                        },
+                        [],
+                        [],
+                        {
+                          "has_draft_grade": 1,
+                          "draft_grade": "C",
+                          "draft_recap_url": "https://football.fantasysports.yahoo.com/2023/f1/189611/8/draftrecap"
+                        },
+                        [],
+                        [],
+                        [],
+                        {
+                          "managers": [
+                            {
+                              "manager": {
+                                "manager_id": "8",
+                                "nickname": "Price",
+                                "guid": "45GPWLXXN6MH43YQQCZ5BXH4KQ",
+                                "image_url": "https://s.yimg.com/ag/images/default_user_profile_pic_64sq.jpg",
+                                "felo_score": "581",
+                                "felo_tier": "bronze"
+                              }
+                            }
+                          ]
+                        }
+                      ],
+                      {
+                        "win_probability": 0,
+                        "team_points": {
+                          "coverage_type": "week",
+                          "week": 12,
+                          "total": "141.54"
+                        },
+                        "team_projected_points": {
+                          "coverage_type": "week",
+                          "week": 12,
+                          "total": "106.32"
+                        }
+                      }
+                    ]
+                  },
+                  "count": 2
+                }
+              },
+              "week": 12,
+              "week_start": "2023-11-21",
+              "week_end": "2023-11-27",
+              "status": "postevent",
+              "is_playoffs": "0",
+              "is_consolation": "0",
+              "is_matchup_recap_available": 1,
+              "matchup_recap_url": "https://football.fantasysports.yahoo.com/2023/f1/189611/recap?week=12&mid1=1&mid2=8",
+              "matchup_recap_title": "Celebrate with Uber Eats, the official on-demand delivery partner of the NFL.",
+              "matchup_grades": [
+                {
+                  "matchup_grade": {
+                    "team_key": "423.l.189611.t.1",
+                    "grade": "A"
+                  }
+                },
+                {
+                  "matchup_grade": {
+                    "team_key": "423.l.189611.t.8",
+                    "grade": "C+"
+                  }
+                }
+              ],
+              "is_tied": 0,
+              "winner_team_key": "423.l.189611.t.1"
+            }
+          },
+          "12": {
+            "matchup": {
+              "0": {
+                "teams": {
+                  "0": {
+                    "team": [
+                      [
+                        {
+                          "team_key": "423.l.189611.t.1"
+                        },
+                        {
+                          "team_id": "1"
+                        },
+                        {
+                          "name": "Hurts Barkley and Hill is Hot"
+                        },
+                        {
+                          "is_owned_by_current_login": 1
+                        },
+                        {
+                          "url": "https://football.fantasysports.yahoo.com/2023/f1/189611/1"
+                        },
+                        {
+                          "team_logos": [
+                            {
+                              "team_logo": {
+                                "size": "large",
+                                "url": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/1c193bbb0a52b6009cff730cf4ccf3e07b2f58e716d11298a06f34ba8187f816.jpg"
+                              }
+                            }
+                          ]
+                        },
+                        [],
+                        {
+                          "waiver_priority": 8
+                        },
+                        [],
+                        {
+                          "number_of_moves": 15
+                        },
+                        {
+                          "number_of_trades": 0
+                        },
+                        {
+                          "roster_adds": {
+                            "coverage_type": "week",
+                            "coverage_value": 18,
+                            "value": "0"
+                          }
+                        },
+                        {
+                          "clinched_playoffs": 1
+                        },
+                        {
+                          "league_scoring_type": "head"
+                        },
+                        [],
+                        [],
+                        {
+                          "has_draft_grade": 1,
+                          "draft_grade": "B+",
+                          "draft_recap_url": "https://football.fantasysports.yahoo.com/2023/f1/189611/1/draftrecap"
+                        },
+                        [],
+                        [],
+                        [],
+                        {
+                          "managers": [
+                            {
+                              "manager": {
+                                "manager_id": "1",
+                                "nickname": "Harper",
+                                "guid": "QQIQZ2XHT2FYEW7L4TMCKO4N6A",
+                                "is_commissioner": "1",
+                                "is_current_login": "1",
+                                "image_url": "https://s.yimg.com/ag/images/2a03c2b1-5620-448e-bbeb-ddc2cf2c0c43_64sq.jpg",
+                                "felo_score": "663",
+                                "felo_tier": "silver"
+                              }
+                            }
+                          ]
+                        }
+                      ],
+                      {
+                        "win_probability": 0,
+                        "team_points": {
+                          "coverage_type": "week",
+                          "week": 13,
+                          "total": "115.22"
+                        },
+                        "team_projected_points": {
+                          "coverage_type": "week",
+                          "week": 13,
+                          "total": "104.43"
+                        }
+                      }
+                    ]
+                  },
+                  "1": {
+                    "team": [
+                      [
+                        {
+                          "team_key": "423.l.189611.t.5"
+                        },
+                        {
+                          "team_id": "5"
+                        },
+                        {
+                          "name": "My Chubbs Gone"
+                        },
+                        [],
+                        {
+                          "url": "https://football.fantasysports.yahoo.com/2023/f1/189611/5"
+                        },
+                        {
+                          "team_logos": [
+                            {
+                              "team_logo": {
+                                "size": "large",
+                                "url": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/238b6249163b26285c66bffcac9c6d578eebfed667ef87a67cc93f269fac21bc.jpg"
+                              }
+                            }
+                          ]
+                        },
+                        [],
+                        {
+                          "waiver_priority": 3
+                        },
+                        [],
+                        {
+                          "number_of_moves": 12
+                        },
+                        {
+                          "number_of_trades": 0
+                        },
+                        {
+                          "roster_adds": {
+                            "coverage_type": "week",
+                            "coverage_value": 18,
+                            "value": "0"
+                          }
+                        },
+                        [],
+                        {
+                          "league_scoring_type": "head"
+                        },
+                        [],
+                        [],
+                        {
+                          "has_draft_grade": 1,
+                          "draft_grade": "A+",
+                          "draft_recap_url": "https://football.fantasysports.yahoo.com/2023/f1/189611/5/draftrecap"
+                        },
+                        [],
+                        [],
+                        [],
+                        {
+                          "managers": [
+                            {
+                              "manager": {
+                                "manager_id": "5",
+                                "nickname": "Ray",
+                                "guid": "PQTGH5PYJD67IW5LHQ426XKEGU",
+                                "image_url": "https://s.yimg.com/ag/images/default_user_profile_pic_64sq.jpg",
+                                "felo_score": "572",
+                                "felo_tier": "bronze"
+                              }
+                            }
+                          ]
+                        }
+                      ],
+                      {
+                        "win_probability": 1,
+                        "team_points": {
+                          "coverage_type": "week",
+                          "week": 13,
+                          "total": "150.82"
+                        },
+                        "team_projected_points": {
+                          "coverage_type": "week",
+                          "week": 13,
+                          "total": "105.53"
+                        }
+                      }
+                    ]
+                  },
+                  "count": 2
+                }
+              },
+              "week": 13,
+              "week_start": "2023-11-28",
+              "week_end": "2023-12-04",
+              "status": "postevent",
+              "is_playoffs": "0",
+              "is_consolation": "0",
+              "is_matchup_recap_available": 1,
+              "matchup_recap_url": "https://football.fantasysports.yahoo.com/2023/f1/189611/recap?week=13&mid1=1&mid2=5",
+              "matchup_recap_title": "Win or lose, order gameday deals with Uber Eats.",
+              "matchup_grades": [
+                {
+                  "matchup_grade": {
+                    "team_key": "423.l.189611.t.1",
+                    "grade": "D+"
+                  }
+                },
+                {
+                  "matchup_grade": {
+                    "team_key": "423.l.189611.t.5",
+                    "grade": "A+"
+                  }
+                }
+              ],
+              "is_tied": 0,
+              "winner_team_key": "423.l.189611.t.5"
+            }
+          },
+          "13": {
+            "matchup": {
+              "0": {
+                "teams": {
+                  "0": {
+                    "team": [
+                      [
+                        {
+                          "team_key": "423.l.189611.t.1"
+                        },
+                        {
+                          "team_id": "1"
+                        },
+                        {
+                          "name": "Hurts Barkley and Hill is Hot"
+                        },
+                        {
+                          "is_owned_by_current_login": 1
+                        },
+                        {
+                          "url": "https://football.fantasysports.yahoo.com/2023/f1/189611/1"
+                        },
+                        {
+                          "team_logos": [
+                            {
+                              "team_logo": {
+                                "size": "large",
+                                "url": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/1c193bbb0a52b6009cff730cf4ccf3e07b2f58e716d11298a06f34ba8187f816.jpg"
+                              }
+                            }
+                          ]
+                        },
+                        [],
+                        {
+                          "waiver_priority": 8
+                        },
+                        [],
+                        {
+                          "number_of_moves": 15
+                        },
+                        {
+                          "number_of_trades": 0
+                        },
+                        {
+                          "roster_adds": {
+                            "coverage_type": "week",
+                            "coverage_value": 18,
+                            "value": "0"
+                          }
+                        },
+                        {
+                          "clinched_playoffs": 1
+                        },
+                        {
+                          "league_scoring_type": "head"
+                        },
+                        [],
+                        [],
+                        {
+                          "has_draft_grade": 1,
+                          "draft_grade": "B+",
+                          "draft_recap_url": "https://football.fantasysports.yahoo.com/2023/f1/189611/1/draftrecap"
+                        },
+                        [],
+                        [],
+                        [],
+                        {
+                          "managers": [
+                            {
+                              "manager": {
+                                "manager_id": "1",
+                                "nickname": "Harper",
+                                "guid": "QQIQZ2XHT2FYEW7L4TMCKO4N6A",
+                                "is_commissioner": "1",
+                                "is_current_login": "1",
+                                "image_url": "https://s.yimg.com/ag/images/2a03c2b1-5620-448e-bbeb-ddc2cf2c0c43_64sq.jpg",
+                                "felo_score": "663",
+                                "felo_tier": "silver"
+                              }
+                            }
+                          ]
+                        }
+                      ],
+                      {
+                        "win_probability": 1,
+                        "team_points": {
+                          "coverage_type": "week",
+                          "week": 14,
+                          "total": "111.08"
+                        },
+                        "team_projected_points": {
+                          "coverage_type": "week",
+                          "week": 14,
+                          "total": "117.05"
+                        }
+                      }
+                    ]
+                  },
+                  "1": {
+                    "team": [
+                      [
+                        {
+                          "team_key": "423.l.189611.t.3"
+                        },
+                        {
+                          "team_id": "3"
+                        },
+                        {
+                          "name": "Chase-in Doubs"
+                        },
+                        [],
+                        {
+                          "url": "https://football.fantasysports.yahoo.com/2023/f1/189611/3"
+                        },
+                        {
+                          "team_logos": [
+                            {
+                              "team_logo": {
+                                "size": "large",
+                                "url": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/d564a41617cfdb451824ef53bd8b7598b06e632f5aa877d52f0b4a0d1d074aa8.jpg"
+                              }
+                            }
+                          ]
+                        },
+                        [],
+                        {
+                          "waiver_priority": 7
+                        },
+                        [],
+                        {
+                          "number_of_moves": 17
+                        },
+                        {
+                          "number_of_trades": 0
+                        },
+                        {
+                          "roster_adds": {
+                            "coverage_type": "week",
+                            "coverage_value": 18,
+                            "value": "0"
+                          }
+                        },
+                        {
+                          "clinched_playoffs": 1
+                        },
+                        {
+                          "league_scoring_type": "head"
+                        },
+                        [],
+                        [],
+                        {
+                          "has_draft_grade": 1,
+                          "draft_grade": "A-",
+                          "draft_recap_url": "https://football.fantasysports.yahoo.com/2023/f1/189611/3/draftrecap"
+                        },
+                        [],
+                        [],
+                        [],
+                        {
+                          "managers": [
+                            {
+                              "manager": {
+                                "manager_id": "3",
+                                "nickname": "Colin",
+                                "guid": "UYU23V4FIVN7IIE3Y5KWUU6VDU",
+                                "image_url": "https://s.yimg.com/ag/images/5990deb1-f13b-406c-9aba-9d052d265941zU_64sq.jpg",
+                                "felo_score": "787",
+                                "felo_tier": "gold"
+                              }
+                            }
+                          ]
+                        }
+                      ],
+                      {
+                        "win_probability": 0,
+                        "team_points": {
+                          "coverage_type": "week",
+                          "week": 14,
+                          "total": "100.04"
+                        },
+                        "team_projected_points": {
+                          "coverage_type": "week",
+                          "week": 14,
+                          "total": "119.91"
+                        }
+                      }
+                    ]
+                  },
+                  "count": 2
+                }
+              },
+              "week": 14,
+              "week_start": "2023-12-05",
+              "week_end": "2023-12-11",
+              "status": "postevent",
+              "is_playoffs": "0",
+              "is_consolation": "0",
+              "is_matchup_recap_available": 1,
+              "matchup_recap_url": "https://football.fantasysports.yahoo.com/2023/f1/189611/recap?week=14&mid1=1&mid2=3",
+              "matchup_recap_title": "Celebrate with Uber Eats, the official on-demand delivery partner of the NFL.",
+              "matchup_grades": [
+                {
+                  "matchup_grade": {
+                    "team_key": "423.l.189611.t.1",
+                    "grade": "B+"
+                  }
+                },
+                {
+                  "matchup_grade": {
+                    "team_key": "423.l.189611.t.3",
+                    "grade": "D+"
+                  }
+                }
+              ],
+              "is_tied": 0,
+              "winner_team_key": "423.l.189611.t.1"
+            }
+          },
+          "14": {
+            "matchup": {
+              "0": {
+                "teams": {
+                  "0": {
+                    "team": [
+                      [
+                        {
+                          "team_key": "423.l.189611.t.1"
+                        },
+                        {
+                          "team_id": "1"
+                        },
+                        {
+                          "name": "Hurts Barkley and Hill is Hot"
+                        },
+                        {
+                          "is_owned_by_current_login": 1
+                        },
+                        {
+                          "url": "https://football.fantasysports.yahoo.com/2023/f1/189611/1"
+                        },
+                        {
+                          "team_logos": [
+                            {
+                              "team_logo": {
+                                "size": "large",
+                                "url": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/1c193bbb0a52b6009cff730cf4ccf3e07b2f58e716d11298a06f34ba8187f816.jpg"
+                              }
+                            }
+                          ]
+                        },
+                        [],
+                        {
+                          "waiver_priority": 8
+                        },
+                        [],
+                        {
+                          "number_of_moves": 15
+                        },
+                        {
+                          "number_of_trades": 0
+                        },
+                        {
+                          "roster_adds": {
+                            "coverage_type": "week",
+                            "coverage_value": 18,
+                            "value": "0"
+                          }
+                        },
+                        {
+                          "clinched_playoffs": 1
+                        },
+                        {
+                          "league_scoring_type": "head"
+                        },
+                        [],
+                        [],
+                        {
+                          "has_draft_grade": 1,
+                          "draft_grade": "B+",
+                          "draft_recap_url": "https://football.fantasysports.yahoo.com/2023/f1/189611/1/draftrecap"
+                        },
+                        [],
+                        [],
+                        [],
+                        {
+                          "managers": [
+                            {
+                              "manager": {
+                                "manager_id": "1",
+                                "nickname": "Harper",
+                                "guid": "QQIQZ2XHT2FYEW7L4TMCKO4N6A",
+                                "is_commissioner": "1",
+                                "is_current_login": "1",
+                                "image_url": "https://s.yimg.com/ag/images/2a03c2b1-5620-448e-bbeb-ddc2cf2c0c43_64sq.jpg",
+                                "felo_score": "663",
+                                "felo_tier": "silver"
+                              }
+                            }
+                          ]
+                        }
+                      ],
+                      {
+                        "win_probability": 0,
+                        "team_points": {
+                          "coverage_type": "week",
+                          "week": 15,
+                          "total": "92.02"
+                        },
+                        "team_projected_points": {
+                          "coverage_type": "week",
+                          "week": 15,
+                          "total": "103.95"
+                        }
+                      }
+                    ]
+                  },
+                  "1": {
+                    "team": [
+                      [
+                        {
+                          "team_key": "423.l.189611.t.7"
+                        },
+                        {
+                          "team_id": "7"
+                        },
+                        {
+                          "name": "Saleh's Survivors"
+                        },
+                        [],
+                        {
+                          "url": "https://football.fantasysports.yahoo.com/2023/f1/189611/7"
+                        },
+                        {
+                          "team_logos": [
+                            {
+                              "team_logo": {
+                                "size": "large",
+                                "url": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/813dadb2556d9f875a6c4eb74cb5abad504b8309fe6e09d3408c66ec2fec7fc7.png"
+                              }
+                            }
+                          ]
+                        },
+                        [],
+                        {
+                          "waiver_priority": 5
+                        },
+                        [],
+                        {
+                          "number_of_moves": 19
+                        },
+                        {
+                          "number_of_trades": 0
+                        },
+                        {
+                          "roster_adds": {
+                            "coverage_type": "week",
+                            "coverage_value": 18,
+                            "value": "0"
+                          }
+                        },
+                        {
+                          "clinched_playoffs": 1
+                        },
+                        {
+                          "league_scoring_type": "head"
+                        },
+                        [],
+                        [],
+                        {
+                          "has_draft_grade": 1,
+                          "draft_grade": "D+",
+                          "draft_recap_url": "https://football.fantasysports.yahoo.com/2023/f1/189611/7/draftrecap"
+                        },
+                        [],
+                        [],
+                        [],
+                        {
+                          "managers": [
+                            {
+                              "manager": {
+                                "manager_id": "7",
+                                "nickname": "TK",
+                                "guid": "NTTZSWPHPJZEN3IU5FYWAXDCDC",
+                                "image_url": "https://s.yimg.com/ag/images/default_user_profile_pic_64sq.jpg",
+                                "felo_score": "711",
+                                "felo_tier": "gold"
+                              }
+                            }
+                          ]
+                        }
+                      ],
+                      {
+                        "win_probability": 1,
+                        "team_points": {
+                          "coverage_type": "week",
+                          "week": 15,
+                          "total": "103.66"
+                        },
+                        "team_projected_points": {
+                          "coverage_type": "week",
+                          "week": 15,
+                          "total": "102.83"
+                        }
+                      }
+                    ]
+                  },
+                  "count": 2
+                }
+              },
+              "week": 15,
+              "week_start": "2023-12-12",
+              "week_end": "2023-12-18",
+              "status": "postevent",
+              "is_playoffs": "1",
+              "is_consolation": "0",
+              "is_matchup_recap_available": 1,
+              "matchup_recap_url": "https://football.fantasysports.yahoo.com/2023/f1/189611/recap?week=15&mid1=1&mid2=7",
+              "matchup_recap_title": "Win or lose, order gameday deals with Uber Eats.",
+              "matchup_grades": [
+                {
+                  "matchup_grade": {
+                    "team_key": "423.l.189611.t.1",
+                    "grade": "D+"
+                  }
+                },
+                {
+                  "matchup_grade": {
+                    "team_key": "423.l.189611.t.7",
+                    "grade": "B+"
+                  }
+                }
+              ],
+              "is_tied": 0,
+              "winner_team_key": "423.l.189611.t.7"
+            }
+          },
+          "15": {
+            "matchup": {
+              "0": {
+                "teams": {
+                  "0": {
+                    "team": [
+                      [
+                        {
+                          "team_key": "423.l.189611.t.1"
+                        },
+                        {
+                          "team_id": "1"
+                        },
+                        {
+                          "name": "Hurts Barkley and Hill is Hot"
+                        },
+                        {
+                          "is_owned_by_current_login": 1
+                        },
+                        {
+                          "url": "https://football.fantasysports.yahoo.com/2023/f1/189611/1"
+                        },
+                        {
+                          "team_logos": [
+                            {
+                              "team_logo": {
+                                "size": "large",
+                                "url": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/1c193bbb0a52b6009cff730cf4ccf3e07b2f58e716d11298a06f34ba8187f816.jpg"
+                              }
+                            }
+                          ]
+                        },
+                        [],
+                        {
+                          "waiver_priority": 8
+                        },
+                        [],
+                        {
+                          "number_of_moves": 15
+                        },
+                        {
+                          "number_of_trades": 0
+                        },
+                        {
+                          "roster_adds": {
+                            "coverage_type": "week",
+                            "coverage_value": 18,
+                            "value": "0"
+                          }
+                        },
+                        {
+                          "clinched_playoffs": 1
+                        },
+                        {
+                          "league_scoring_type": "head"
+                        },
+                        [],
+                        [],
+                        {
+                          "has_draft_grade": 1,
+                          "draft_grade": "B+",
+                          "draft_recap_url": "https://football.fantasysports.yahoo.com/2023/f1/189611/1/draftrecap"
+                        },
+                        [],
+                        [],
+                        [],
+                        {
+                          "managers": [
+                            {
+                              "manager": {
+                                "manager_id": "1",
+                                "nickname": "Harper",
+                                "guid": "QQIQZ2XHT2FYEW7L4TMCKO4N6A",
+                                "is_commissioner": "1",
+                                "is_current_login": "1",
+                                "image_url": "https://s.yimg.com/ag/images/2a03c2b1-5620-448e-bbeb-ddc2cf2c0c43_64sq.jpg",
+                                "felo_score": "663",
+                                "felo_tier": "silver"
+                              }
+                            }
+                          ]
+                        }
+                      ],
+                      {
+                        "win_probability": 0,
+                        "team_points": {
+                          "coverage_type": "week",
+                          "week": 16,
+                          "total": "100.54"
+                        },
+                        "team_projected_points": {
+                          "coverage_type": "week",
+                          "week": 16,
+                          "total": "112.62"
+                        }
+                      }
+                    ]
+                  },
+                  "1": {
+                    "team": [
+                      [
+                        {
+                          "team_key": "423.l.189611.t.4"
+                        },
+                        {
+                          "team_id": "4"
+                        },
+                        {
+                          "name": "Breece’s Pieces"
+                        },
+                        [],
+                        {
+                          "url": "https://football.fantasysports.yahoo.com/2023/f1/189611/4"
+                        },
+                        {
+                          "team_logos": [
+                            {
+                              "team_logo": {
+                                "size": "large",
+                                "url": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/56477432081_bebbe2.png"
+                              }
+                            }
+                          ]
+                        },
+                        [],
+                        {
+                          "waiver_priority": 6
+                        },
+                        [],
+                        {
+                          "number_of_moves": 13
+                        },
+                        {
+                          "number_of_trades": 0
+                        },
+                        {
+                          "roster_adds": {
+                            "coverage_type": "week",
+                            "coverage_value": 18,
+                            "value": "0"
+                          }
+                        },
+                        {
+                          "clinched_playoffs": 1
+                        },
+                        {
+                          "league_scoring_type": "head"
+                        },
+                        [],
+                        [],
+                        {
+                          "has_draft_grade": 1,
+                          "draft_grade": "A+",
+                          "draft_recap_url": "https://football.fantasysports.yahoo.com/2023/f1/189611/4/draftrecap"
+                        },
+                        [],
+                        [],
+                        [],
+                        {
+                          "managers": [
+                            {
+                              "manager": {
+                                "manager_id": "4",
+                                "nickname": "cass",
+                                "guid": "N3M4WFRKGYVYHLCJPSICQUG4GE",
+                                "image_url": "https://s.yimg.com/ag/images/default_user_profile_pic_64sq.jpg",
+                                "felo_score": "793",
+                                "felo_tier": "gold"
+                              }
+                            }
+                          ]
+                        }
+                      ],
+                      {
+                        "win_probability": 1,
+                        "team_points": {
+                          "coverage_type": "week",
+                          "week": 16,
+                          "total": "121.90"
+                        },
+                        "team_projected_points": {
+                          "coverage_type": "week",
+                          "week": 16,
+                          "total": "102.52"
+                        }
+                      }
+                    ]
+                  },
+                  "count": 2
+                }
+              },
+              "week": 16,
+              "week_start": "2023-12-19",
+              "week_end": "2023-12-25",
+              "status": "postevent",
+              "is_playoffs": "1",
+              "is_consolation": "0",
+              "is_matchup_recap_available": 1,
+              "matchup_recap_url": "https://football.fantasysports.yahoo.com/2023/f1/189611/recap?week=16&mid1=1&mid2=4",
+              "matchup_recap_title": "Win or lose, order gameday deals with Uber Eats.",
+              "matchup_grades": [
+                {
+                  "matchup_grade": {
+                    "team_key": "423.l.189611.t.1",
+                    "grade": "D+"
+                  }
+                },
+                {
+                  "matchup_grade": {
+                    "team_key": "423.l.189611.t.4",
+                    "grade": "A"
+                  }
+                }
+              ],
+              "is_tied": 0,
+              "winner_team_key": "423.l.189611.t.4"
+            }
+          },
+          "count": 16
+        }
+      }
+    ],
+    "time": "294.33608055115ms",
+    "copyright": "Certain Data by Sportradar, Stats Perform and Rotowire",
+    "refresh_rate": "60"
+  }
+}

@@ -5,8 +5,9 @@
 2. [Installation](#installation)
 3. [Authentication](#authentication)
 4. [Making Requests](#making-requests)
-5. [Commands and Options](#commands-and-options)
-6. [Troubleshooting](#troubleshooting)
+5. [Batch Requests](#batch-requests)
+6. [Commands and Options](#commands-and-options)
+7. [Troubleshooting](#troubleshooting)
 
 ## Introduction
 
@@ -43,7 +44,7 @@ The Yahoo Fantasy API program is a command-line tool that simplifies interaction
 
 ## Authentication
 
-Before using the API, you need to authenticate and obtain a refresh token. If you already have a refresh token, simply add it to .env and you can start making requests. 
+Before using the API, you need to authenticate and obtain a refresh token. 
 
 1. Run the authentication command:
    ```
@@ -73,6 +74,31 @@ yahooAPI req league/nfl.l.123456/standings -o standings.json
 
 This will save the API response to `standings.json` in your current directory.
 
+## Batch Requests
+
+For larger datasets or queries that span multiple weeks, you can use the batch request functionality:
+
+```
+yahooAPI batch <endpoint> -w <weeks> -o <output_file.json> [-s]
+```
+
+Example:
+```
+yahooAPI batch team/423.l.189611.t.1/roster/players/stats -w 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17 -o season_stats.json
+```
+
+This command will:
+- Make multiple requests to the specified endpoint, breaking down the weeks into manageable batches
+- Combine all responses into a single JSON file (season_stats.json in this example)
+- Handle rate limiting and errors automatically
+
+### Options for Batch Requests:
+- `-w, --weeks <weeks>`: Comma-separated list of weeks to include in the request (required)
+- `-o, --output <file>`: Specify the output JSON file (default: "batch_output.json")
+- `-s, --separate`: Save results in separate files instead of combining them
+
+If you use the `-s` flag, each batch will be saved in a separate file with a numeric suffix (e.g., season_stats_1.json, season_stats_2.json, etc.).
+
 ## Commands and Options
 
 ### Global Command
@@ -89,6 +115,14 @@ This will save the API response to `standings.json` in your current directory.
    - Options:
      - `-o, --output <file>`: Specify the output JSON file (default: "output.json")
 
+3. `batch`: Make a batch request
+   - Usage: `yahooAPI batch <endpoint> -w <weeks> -o <output_file> [-s]`
+   - Description: Sends multiple requests to the specified API endpoint for the given weeks
+   - Options:
+     - `-w, --weeks <weeks>`: Comma-separated list of weeks (required)
+     - `-o, --output <file>`: Specify the output JSON file (default: "batch_output.json")
+     - `-s, --separate`: Save results in separate files
+
 ### Options
 - `-v, --version`: Display the version number
 - `-h, --help`: Display help information
@@ -104,7 +138,16 @@ This will save the API response to `standings.json` in your current directory.
    - Verify that your refresh token is still valid
    - Ensure you're using the correct endpoint in your request
 
-3. **Installation Issues**
+3. **Batch Request Errors**
+   - If a batch request fails, the program will automatically retry up to 3 times
+   - Check the console output for any error messages or failed batches
+   - Consider reducing the number of weeks per request if you're consistently seeing timeouts
+
+4. **Rate Limiting**
+   - The batch request functionality is designed to respect Yahoo's rate limits
+   - If you're still encountering rate limit errors, try spreading out your requests over a longer period
+
+5. **Installation Issues**
    - Make sure you have the latest version of Node.js and npm
    - Try uninstalling and reinstalling the package:
      ```
@@ -112,7 +155,7 @@ This will save the API response to `standings.json` in your current directory.
      npm install -g .
      ```
 
-4. **Permissions Errors**
+6. **Permissions Errors**
    - On Unix-based systems, you might need to use `sudo` when installing globally
 
 For any other issues, please check the error message for details or consult the Yahoo Fantasy Sports API documentation.
