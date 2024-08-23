@@ -1,0 +1,20 @@
+{
+  "name": "yahooapi",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "ArrHarper",
+  "license": "ISC",
+  "description": "A simple npm package for making requests to the Yahoo Fantasy Sports API.",
+  "dependencies": {
+    "axios": "^1.7.4",
+    "commander": "^12.1.0",
+    "dotenv": "^16.4.5"
+  },
+  "bin": {
+    "yahooAPI": "./bin/yahoo-fantasy-cli.js"
+  }
+}
